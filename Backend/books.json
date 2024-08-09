@@ -1,0 +1,234 @@
+[
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 18.99,
+        "description": "A novel about the serious issues of rape and racial inequality, 'To Kill a Mockingbird' is a gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 15.99,
+        "description": "'1984' is a dystopian social science fiction novel and cautionary tale, warning of the dangers of totalitarianism and thought control. It explores themes of truth and facts within politics and how they manipulate and control society.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 10.99,
+        "description": "'The Great Gatsby' is a novel about the American dream and the roaring twenties. It tells the story of the mysterious millionaire Jay Gatsby and his obsession with the beautiful former debutante Daisy Buchanan.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 12.99,
+        "description": "'Pride and Prejudice' is a romantic novel that critiques the British landed gentry at the end of the 18th century. The novel charts the emotional development of the protagonist, Elizabeth Bennet, who learns the error of making hasty judgments.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 14.99,
+        "description": "'Moby-Dick' is a sailor's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "price": 19.99,
+        "description": "'War and Peace' is a novel that chronicles the history of the French invasion of Russia and the impact of the Napoleonic era on Tsarist society, as seen through the eyes of five Russian aristocratic families.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "price": 11.99,
+        "description": "'The Odyssey' is one of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the 'Iliad', the other work ascribed to Homer. 'The Odyssey' is fundamental to the modern Western canon and is the second-oldest extant work of Western literature.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "price": 13.99,
+        "description": "'Ulysses' is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal 'The Little Review' from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "price": 12.49,
+        "description": "'Madame Bovary' is the debut novel of French writer Gustave Flaubert, published in 1857. The character lives beyond her means in order to escape the banalities and emptiness of provincial life.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "price": 17.99,
+        "description": "'The Divine Comedy' is a long narrative poem by Dante Alighieri, begun c. 1308 and completed in 1320, a year before his death in 1321. It is widely considered to be the preeminent work in Italian literature and one of the greatest works of world literature.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "price": 18.49,
+        "description": "'One Hundred Years of Solitude' is a landmark 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the town of Macondo.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 15.49,
+        "description": "'Crime and Punishment' is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal 'The Russian Messenger' in twelve monthly installments during 1866.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "price": 16.99,
+        "description": "'The Brothers Karamazov' is the final novel by the Russian author Fyodor Dostoevsky. It is a passionate philosophical novel that enters deeply into the ethical debates of God, free will, and morality.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "price": 14.49,
+        "description": "'Wuthering Heights' is the only novel by Emily Brontë, published under the pseudonym Ellis Bell in 1847. It concerns two families of the landed gentry living on the West Yorkshire moors.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "price": 13.49,
+        "description": "'Great Expectations' is the thirteenth novel by Charles Dickens and his penultimate completed novel. It depicts the education of an orphan nicknamed Pip.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "price": 12.99,
+        "description": "'Frankenstein' is a novel written by English author Mary Shelley that tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "price": 17.49,
+        "description": "'Anna Karenina' is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Many authors consider 'Anna Karenina' the greatest work of literature ever written.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 14.99,
+        "description": "'The Catcher in the Rye' is a novel by J. D. Salinger. It was originally published for adults, but it has since become popular with adolescent readers for its themes of teenage angst and alienation.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 13.99,
+        "description": "'The Hobbit, or There and Back Again' is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "price": 19.49,
+        "description": "'Les Misérables' is a French historical novel by Victor Hugo, first published in 1862, that is considered one of the greatest novels of the 19th century.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "price": 16.49,
+        "description": "'Don Quixote' is a Spanish novel by Miguel de Cervantes. Its full title is 'The Ingenious Gentleman Don Quixote of La Mancha'. It was published in two parts, in 1605 and 1615.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "price": 12.49,
+        "description": "'Jane Eyre' is a novel by English writer Charlotte Brontë. It was published on 16 October 1847 by Smith, Elder & Co. of London, England, under the pen name 'Currer Bell'.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Iliad",
+        "author": "Homer",
+        "price": 14.99,
+        "description": "'The Iliad' is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer. Set during the Trojan War, the ten-year siege of the city of Troy by a coalition of Greek states.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Aeneid",
+        "author": "Virgil",
+        "price": 13.99,
+        "description": "'The Aeneid' is a Latin epic poem, written by Virgil between 29 and 19 BC, that tells the legendary story of Aeneas, a Trojan who travelled to Italy, where he became the ancestor of the Romans.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "price": 15.49,
+        "description": "'Middlemarch, A Study of Provincial Life' is a novel by George Eliot, the pen name of Mary Anne Evans, later Marian Evans. It first appeared in eight instalments (volumes) in 1871 and 1872.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "price": 16.99,
+        "description": "'The Grapes of Wrath' is an American realist novel written by John Steinbeck and published in 1939. The book won the National Book Award and Pulitzer Prize for fiction.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "price": 12.99,
+        "description": "'Brave New World' is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "price": 11.99,
+        "description": "'The Scarlet Letter: A Romance' is a work of historical fiction by American author Nathaniel Hawthorne, published in 1850. Set in Puritan Massachusetts Bay Colony during the years 1642 to 1649.",
+        "language": "English"
+    },
+    {
+        "url": "https://i.pinimg.com/236x/f4/5b/43/f45b43c471538dc141be19363964245a.jpg",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "price": 13.49,
+        "description": "'The Picture of Dorian Gray' is a philosophical novel by Oscar Wilde. A shorter novella-length version was published in the July 1890 issue of the American periodical Lippincott's Monthly Magazine.",
+        "language": "English"
+    }
+]

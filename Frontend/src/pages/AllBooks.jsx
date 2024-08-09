@@ -11,7 +11,7 @@ function AllBooks() {
 
     useEffect(() => {
         const fetch = async () => {
-            const response = await axios.get("http://localhost:4000/api/v1/get-all-books");
+            const response = await axios.get("https://bookbug-sid-backend.onrender.com/api/v1/get-all-books");
 
             // console.log(response.data.data);
             setData(response.data.data);

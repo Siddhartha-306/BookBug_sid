@@ -15,7 +15,7 @@ function BookCard({item, favourite}) {
     };
 
     const handleRemoveBook = async () => {
-      const response = await axios.put("http://localhost:4000/api/v1/remove-book-from-favourite", {}, { headers });
+      const response = await axios.put("https://bookbug-sid-backend.onrender.com/api/v1/remove-book-from-favourite", {}, { headers });
 
       alert(response.data.message);
     };

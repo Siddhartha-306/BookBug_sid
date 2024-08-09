@@ -25,7 +25,7 @@ function viewBookDetails() {
 
     useEffect(() => {
         const fetch = async () => {
-            const response = await axios.get(`http://localhost:4000/api/v1/get-book-by-id/${id}`);
+            const response = await axios.get(`https://bookbug-sid-backend.onrender.com/api/v1/get-book-by-id/${id}`);
             // console.log(response);
             setData(response.data.data);
         };
@@ -49,13 +49,13 @@ function viewBookDetails() {
     };
 
     const handleFavourite = async () => {
-      const response = await axios.put("http://localhost:4000/api/v1/add-book-to-favourite", {}, { headers });
+      const response = await axios.put("https://bookbug-sid-backend.onrender.com/api/v1/add-book-to-favourite", {}, { headers });
 
       alert(response.data.message);
     }
 
     const handleCart = async () => {
-      const response = await axios.put("http://localhost:4000/api/v1/add-to-cart", {}, { headers });
+      const response = await axios.put("https://bookbug-sid-backend.onrender.com/api/v1/add-to-cart", {}, { headers });
 
       alert(response.data.message);
     }
@@ -63,7 +63,7 @@ function viewBookDetails() {
     const Navigate = useNavigate();
 
     const deleteBook = async () => {
-      const response = await axios.delete("http://localhost:4000/api/v1/delete-book", {headers});
+      const response = await axios.delete("https://bookbug-sid-backend.onrender.com/api/v1/delete-book", {headers});
 
       // console.log(response);
       alert(response.data.message);

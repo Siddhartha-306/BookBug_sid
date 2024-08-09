@@ -17,7 +17,7 @@ function Cart() {
 
   useEffect(() => {
     const fetch = async () => {
-      const response = await axios.get("http://localhost:4000/api/v1/get-user-cart", { headers });
+      const response = await axios.get("https://bookbug-sid-backend.onrender.com/api/v1/get-user-cart", { headers });
 
       setCart(response.data.data);
     };
@@ -35,7 +35,7 @@ function Cart() {
   }, []);
 
   const deleteItem = async (bookid) => {
-    const response = await axios.put(`http://localhost:4000/api/v1/remove-from-cart/${bookid}`, {}, {headers});
+    const response = await axios.put(`https://bookbug-sid-backend.onrender.com/api/v1/remove-from-cart/${bookid}`, {}, {headers});
 
     alert(response.data.message);
   };
@@ -56,7 +56,7 @@ function Cart() {
 
   const placeOrder = async () => {
     try{
-      const response = await axios.post("http://localhost:4000/api/v1/place-order", {order: cart}, { headers });
+      const response = await axios.post("https://bookbug-sid-backend.onrender.com/api/v1/place-order", {order: cart}, { headers });
 
       alert(response.data.message);
       Navigate("/profile/orderHistory");

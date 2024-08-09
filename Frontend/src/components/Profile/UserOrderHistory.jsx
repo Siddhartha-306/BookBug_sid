@@ -14,7 +14,7 @@ const UserOrderHistory = () => {
 
   useEffect(()=>{
     const fetch = async () => {
-      const response = await axios.get("http://localhost:4000/api/v1/get-order-history", { headers });
+      const response = await axios.get("https://bookbug-sid-backend.onrender.com/api/v1/get-order-history", { headers });
 
       // console.log(response);
       setOrderHistory(response.data.data);

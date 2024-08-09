@@ -24,7 +24,7 @@ const AddBook = () => {
                 alert("All fields are required");
             }
             else{
-                const response = await axios.post("http://localhost:4000/api/v1/add-book", data, { headers });
+                const response = await axios.post("https://bookbug-sid-backend.onrender.com/api/v1/add-book", data, { headers });
 
                 setData({
                     url: "", title: "", author: "", price: "", description: "", language: "",

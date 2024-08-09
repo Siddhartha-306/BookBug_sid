@@ -21,7 +21,7 @@ function SignUp() {
       }
       else{
         // console.log(values);
-        const response = await axios.post("http://localhost:4000/api/v1/signUp", values);
+        const response = await axios.post("https://bookbug-sid-backend.onrender.com/api/v1/signUp", values);
         alert(response.data.message);
 
         navigate("/Login");

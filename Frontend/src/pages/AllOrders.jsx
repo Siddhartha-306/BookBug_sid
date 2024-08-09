@@ -22,7 +22,7 @@ const AllOrders = () => {
 
     useEffect(() => {
         const fetch = async () => {
-            const response = await axios.get("http://localhost:4000/api/v1/get-all-orders", {headers});
+            const response = await axios.get("https://bookbug-sid-backend.onrender.com/api/v1/get-all-orders", {headers});
 
             console.log(response);
             setAllOrders(response.data.data);
@@ -38,7 +38,7 @@ const AllOrders = () => {
 
     const submitChanges = async (i) => {
         const id = allOrders[i]._id;
-        const response = await axios.put(`http://localhost:4000/api/v1/update-status/${id}`, value, {headers});
+        const response = await axios.put(`https://bookbug-sid-backend.onrender.com/api/v1/update-status/${id}`, value, {headers});
         console.log(response); 
         alert(response.data.message);
     };

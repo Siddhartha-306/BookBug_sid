@@ -13,7 +13,7 @@ const Settings = () => {
 
   useEffect(()=> {
     const fetch = async () => {
-      const response = await axios.get("http://localhost:4000/api/v1/get-user-information", {headers});
+      const response = await axios.get("https://bookbug-sid-backend.onrender.com/api/v1/get-user-information", {headers});
       setProfileData(response.data);
       setValue({address: response.data.address});
     };
@@ -26,7 +26,7 @@ const Settings = () => {
   };
 
   const submitAddress = async () => {
-    const response = await axios.put("http://localhost:4000/api/v1/update-address", value, {headers});
+    const response = await axios.put("https://bookbug-sid-backend.onrender.com/api/v1/update-address", value, {headers});
 
     // console.log(response);
     alert(response.data.message);
